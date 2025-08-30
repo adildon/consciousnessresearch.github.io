@@ -25,13 +25,13 @@ For over thirteen years, this project has provided postgraduate-level seminars e
 
 ## Mission
 
-This archive aims to remain **durable, open, and searchable**, so seekers can discover insights on the path to mokṣa, even if other platforms change. It is a living library, continuously growing as new talks and reflections are added.
+This archive aims to remain **durable, open,** and **searchable**, so seekers can discover insights on the path to *mokṣa,* even if other platforms change. It is a living library, continuously growing as new talks and reflections are added.
 
 ---
 
 ## Credits
 
-- Primary author: **Dev Bhagavān (Ādyaśakti Svāmī)**  
+- Primary author: **Dev Bhagavān (Priyānanda Svāmī)**  
 - Repository management: **Dinindu Wijenayake**  
 - Content shared freely in the spirit of **dharma**
 
