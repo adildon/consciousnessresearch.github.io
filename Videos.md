@@ -1,6 +1,6 @@
 # CRC Video Series
 
-### [YouTube Channel](https://www.youtube.com/@ConsciousnessResearch
+### [YouTube Channel](https://www.youtube.com/@ConsciousnessResearch)
 
 The **Consciousness Research Centre** theory of consciousness—known as Dharmasār, the Essence of Dharma—is a breakthrough in understanding consciousness in spiritual thought and practice. It is comparable in importance, scope and impact to Einstein’s discovery of Relativity. This is no exaggeration, for the Essence of Dharma **resolves all apparent contradictions** between stages of the spiritual Path, and among the various religious sects and organizations, by providing an extremely broad **ontological view** and analysis of the ancient Vedic theory of consciousness, easily verifiable by anyone and capable of supporting all spiritual and religious views.
 
@@ -14,11 +14,11 @@ All perception is based on consciousness. There are four states of consciousness
 
 The **root ontology** of **Consciousness Research Centre** is shown here:
 
-![Ontology](../art/ontology.png)
+![Ontology](art/ontology.png)
 
 The classification of the videos series is based on the level of **development of consciousness** through the *yoga* system, and the *cakras* that represent the center of awareness and support for that consciousness:
 
-![Four States of Consciousness](../art/consciousness.png)
+![Four States of Consciousness](art/consciousness.png)
 
 The seven *cakras* are divided into **four groups**. The groups are the basis of the ***catur-darśanam*** (four views of reality). The views are expressions of the **four states of consciousness**: *jagrat, svapna, suṣupti* and *turīya*. The practices related to the views and states of consciousness are the **four principal *yogas**: karma, bhakti, rāja* and *jñāna*.
 
