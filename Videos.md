@@ -44,11 +44,11 @@ The videos in the **Introductory** section are preliminary materials, required p
 
 It is best to begin here, and watch all the videos in each series before going on to the next. Contact your Senior Researcher if you have any difficulties understanding the Teaching or performing the practices given.
 
-## ***Jagrat* | *Dvaita-vāda* | *Karma-yoga***
+## *Jagrat* | *Dvaita-vāda* | *Karma-yoga*
 
 The courses in the ***Dvaita-vāda* Section** are based on *jagrat* consciousness, the dualistic view of the phenomenal world and empirical individual self as real. This is the domain of taking care of the body, care for the world, and the effort to establish an independent individuality. But because this empirical self is temporary and illusory, this effort only leads to **suffering**. Thus people turn to sectarian religion for relief of suffering, not realizing that they themselves are the architects of their fate. However, engaging in care of health, financial and psychological well-being, good education, charity and other gifts, regular performance of the religious rituals of *karma-yoga* gradually purify beings through accumulation of pious *karma* (*puñya*). Thus these courses apply to the first two *cakras*.
 
-### ****1. *Mūlādhāra-cakra***
+### 1. *Mūlādhāra-cakra*
 
 The courses in this section are about the **root or sex cakra**. Sex energy supports and animates the whole body. The Kuṇḍalinī-Śakti resides here, coiled like a snake. The yoga process is a series of techniques intended to raise the Kuṇḍalinī up the *suśumna* spinal channel until She unites with Śiva in the crown *cakra*. This is enlightenment or Self-realization. Attaining complete Self-realization requires the **full energy of the human being**, which resides in the root or sex *chakra*. Thus complete development or evolution of the sex energy is required to attain the highest energy levels.
 
