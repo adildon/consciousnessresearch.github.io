@@ -24,7 +24,7 @@
 
 Study of consciousness imparts timeless wisdom that can be applied in many areas of life, including leadership, decision-making and problem-solving. It can lead to a sense of personal fulfillment, purpose, compassion and a deeper, more intimate connection to one's life journey. Students of consciousness find enhanced self-awareness and spiritual growth enables them to contribute more positively to their families, communities and society. Consciousness study thus offers a holistic approach to personal and spiritual development, leading to a richer and more meaningful life for the individual and society.
 
-<img src="consciousnessresearch.github.io/art/svamiji.jpg" alt="Swamiji">
+![Swamiji](consciousnessresearch.github.io/art/svamiji.jpg)
 
 # Founder
 
