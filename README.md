@@ -5,7 +5,7 @@ Exploring Vedic philosophy, spiritual practice, and Self-realization through acc
 
 For over 13 years, Consciousness Research Centre has presented a postgraduate-level seminar on spiritual philosophy and practice — over 2,000 video talks exploring the Upaniṣads, the Buddha’s teachings, yoga, tantra, astrology, and lived experience of the Self.
 
-This archive is guided by a simple vow: nothing is taught here that has not been personally practiced or realized. Each talk is both commentary and testimony, linking original sources of Vedic and Buddhist traditions with the challenges of contemporary life.
+This archive is guided by a simple vow: everything taught here has been personally studied, practiced and realized. Each talk is both commentary and testimony, linking original sources of Vedic and Buddhist traditions with the challenges of contemporary life.
 
 The project continues to grow as a freely available library of wisdom — a path for seekers, students, and researchers who wish to discover not only what the scriptures say, but how their truths can be lived today.
 
@@ -15,7 +15,7 @@ Visit the YouTube Channel → https://youtube.com/@ConsciousnessResearch
 
 ## About
 
-This project hosts the public website of the **Consciousness Research Centre**, maintained by Dev Bhagavān (Ādyaśakti Svāmī), presenting original reflections, translations, and commentaries on Vedic and Buddhist philosophy, weaving ancient wisdom into contemporary life.  
+This project hosts the public website of the **Consciousness Research Centre**, maintained by Dev Priyānanda Svāmī Bhagavān, presenting original reflections, translations, and commentaries on Vedic and Buddhist philosophy, weaving ancient wisdom into contemporary life.  
 
 The vision:  
 - **Evergreen content** – durable writings available for generations.  
