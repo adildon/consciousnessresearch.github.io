@@ -28,7 +28,7 @@ The CRC **videos and courses are similarly divided into **four groups**, plus **
 
 The videos in the **Introductory** section are preliminary materials, required prerequisites for the course series in the following sections. Our system of **ontological self-learning** leverages the background knowledge given in these courses to produce extraordinary results. Since **meaning is determined by context**, the ontological context established in the Introductory courses enhances the meaning of the other courses. And since **meaning** and **value** are closely **related**, this **greatly increases** their value. By completing the **Introductory** courses you become a fully qualified **CRC Researcher**. Then you can consult with your Senior Researcher to create a **Personal Learning Plan** to chart your route through the more advanced courses.
 
-## **Introductory Video Series:**
+## Introductory Video Series:
 
 | **Course Site** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJhRhiu1FKRRgIkE16Yr5Ww) | [Archive](https://archive.org/details/dharmasar-course-site-introductory-dharmasar) |
 | --- | --- | --- |
@@ -58,7 +58,7 @@ The courses in this section are about the **root or sex cakra**. Sex energy supp
 | --- | --- | --- |
 | **Secret Heaven** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKC7Xl4NKLUhntGVRrJG7vm) | [Archive](https://archive.org/details/dvaita-muladhara-karma-secret-heaven) |
 
-### ****2. *Svādhiṣṭhāna-cakra***
+### 2. *Svādhiṣṭhāna-cakra*
 
 This section contains courses and videos about the **sex and energy-storage *cakras***. Vital energy—*prāṇa*, Chi, Ki or Qi—is life itself. This energy is stored in the second *cakra*, just below the navel. Techniques like *prāṇāyama* and Qigong collect and concentrate the vital energy. Increasing and optimizing the vital energy is required for robust health and success in meditation.
 
@@ -68,11 +68,11 @@ This section contains courses and videos about the **sex and energy-storage *cak
 | --- | --- | --- |
 | **Noble Path** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZINn5vb5u-445GNnBcpmhrh) | [Archive](https://archive.org/details/noble-path-dvaita-svadhisthana-dharmasar) |
 
-## ***Svapna* | *Viśiṣṭādvaita-vāda* | *Bhakti-yoga***
+## *Svapna* | *Viśiṣṭādvaita-vāda* | *Bhakti-yoga*
 
 In this section are courses based on limited or conditioned nonduality: ***viśiṣṭādvaita-vāda***. In this view, one knows intellectually that ultimate reality is nondual, and aspires to reach it in the future. Meanwhile, one still experiences the phenomenal world and identifies with the empirical self. The practice in this stage is *bhakti-yoga:* spontaneous devotional service to one of the forms of the Godhead, according to one’s taste. This service is built on the foundation of *karma-yoga* established in the previous stage.
 
-### ****3. *Maṇipūraka-cakra***
+### 3. *Maṇipūraka-cakra*
 
 This section contains courses and videos about the **movement or solar plexus cakra**. Everyone needs movement to stay healthy and alive. Movement and breath distribute energy throughout the body. So everyone should cultivate some exercise form: *haṭha-yoga*, Tai-chi, dance, swimming. Beyond this, in spiritual life there are many activities that need to be performed to prepare for the more advanced stages. These are called *karma-yoga*, and are done with the movement *cakra* in harmony with a higher purpose.
 
@@ -88,7 +88,7 @@ This section contains courses and videos about the **movement or solar plexus ca
 | **Spiritual Purification** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJRZMejNevSYF_PrINWQBbq) | [Archive](https://archive.org/details/purification-sirovrata-visistadvaita-manipuraka-dharmasar) |
 | ***Devānanda-samādhi Yoga*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZIu5tdNrV1bf73k4pzVG4vz) | [Archive](https://archive.org/details/devananda-samadhi-visistadvaita-manipuraka-dharmasar) |
 
-### ****4. *Anāhata-cakra***
+### 4. *Anāhata-cakra*
 
 This section contains courses and videos about the **heart *cakra*** and the practice of *bhakti-yoga*. When sufficient *puñya* or good *karma* is accumulated by practice of the rituals and
 duties of *karma-yoga*, one gradually develops spontaneous attraction toward the object of one’s worship. This is experienced as a very sweet and satisfying emotional taste (*bhāva* or *rasa*). This taste gradually develops to the stage of ecstatic love (*prema*).
@@ -109,7 +109,7 @@ duties of *karma-yoga*, one gradually develops spontaneous attraction toward the
 | ***Tripurārahasya, Māhātmya-Khaṇḍa* 5 & 6** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZLDdmEtHSBNVKSl_XVFg_5a) | [Archive](https://archive.org/details/mahatmya-khanda-5-6-visistadvaita-anahata-dharmasar) |
 | **Tsunami of Beauty** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZK1CvRz_gyde1pQAQx-_-wf) | [Archive](https://archive.org/details/tsunami-of-beauty-visistadvaita-anahata-dharmasar) |
 
-## ***Suṣupti* | *Vivartha-vāda* | *Rāja-yoga***
+## *Suṣupti* | *Vivartha-vāda* | *Rāja-yoga*
 
 In this section you will find courses based on ***vivartha-vāda**:* the view that duality is an illusion or appearance. The practice of deep meditation, *rāja-yoga*, is emptying the mind of all thoughts to perceive the essence: *nibbāna* (*nirvāṇa*), the transcendental Self or Brahman. The Buddha’s teaching, with its stress on meditation and emptiness, fits nicely into this category.
 
@@ -131,7 +131,7 @@ This section contains courses and videos about the throat *cakra*. Transcendenta
 | ***Śrī Lalitā Sahasranāmam*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJBpgcqs1ctC1j_iaPIHY5D) | [Archive](https://archive.org/details/sri-lalita-sahasranamam-raja-visuddhi-dharmasar) |
 | ***Śrīmad Devī Bhāgavatam Skandha* 1** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJqzUG7hC4uOjVv1BBxx4K9) | [Archive](https://archive.org/details/srimad-devi-bhagavatam-raja-visuddhi-dharmasar) |
 
-### **6. *Ājñā-cakra***
+### 6. *Ājñā-cakra*
 
 This section contains courses and videos about the ***ajña*** (forehead) **cakra**. The main activity in this stage is meditation: *rāja-yoga*. When *bhakti-yoga* ripens and reaches completion, meditation—fixing the mind on a single thought—arises spontaneously. There is an orderly progression of progressively abstract states, called in the Buddha’s teaching the *jhānas*, leading to the four Path Realizations. This Path leads one on (*opanāyaka*) to realization of emptiness (*śūnyatā*).
 
@@ -157,11 +157,11 @@ This section contains courses and videos about the ***ajña*** (forehead) **cakr
 | ***Vedānta* & *Dhamma*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZLYSTsZ0ifY8ZDk22eSccmY) | [Archive](https://archive.org/details/vedanta-dhamma-raja-ajna-dharmasar) |
 | ***Vedānta-sūtra*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKFD-VEVZHwcd3z5OttLhWK) | [Archive](https://archive.org/details/vedanta-sutra-1-raja-ajna-dharmasar) |
 
-## ***Turīya* | *Ajata-vāda* | *Jñāna-yoga***
+## *Turīya* | *Ajata-vāda* | *Jñāna-yoga*
 
 This section has courses based on ***ajata-vāda**:* the view that only Brahman is real, and the phenomenal world and empirical self do not exist. This view is realized through *jñāṇa-yoga*, nondual pure awareness of the primordial Self (Brahman).
 
-### ****7. *Sahasrāra-cakra***
+### 7. *Sahasrāra-cakra*
 
 This section contains courses and videos about the ***sahasrāra*** (crown) ***cakra***. This is the seat of pure awareness (Śiva). It is also the source of spiritual ecstasy, the full taste for which everyone is hankering. Spiritual pleasure is without beginning or end. In ordinary consciousness we cover it with various forms of suffering. When this suffering is gradually removed through the *yoga* process, our natural happiness and bliss shine forth. This is the perfection of life.
 
