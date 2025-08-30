@@ -1,5 +1,7 @@
 # CRC Video Series
 
+![CRC Logo](art/CRCLogoSmall.png)
+
 ### [YouTube Channel](https://www.youtube.com/@ConsciousnessResearch)
 
 The **Consciousness Research Centre** theory of consciousness—known as Dharmasār, the Essence of Dharma—is a breakthrough in understanding consciousness in spiritual thought and practice. It is comparable in importance, scope and impact to Einstein’s discovery of Relativity. This is no exaggeration, for the Essence of Dharma **resolves all apparent contradictions** between stages of the spiritual Path, and among the various religious sects and organizations, by providing an extremely broad **ontological view** and analysis of the ancient Vedic theory of consciousness, easily verifiable by anyone and capable of supporting all spiritual and religious views.
