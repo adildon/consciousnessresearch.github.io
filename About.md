@@ -1,6 +1,6 @@
 # Consciousness Research Centre
 
-### [YouTube](https://www.youtube.com/@Gnowly108) • [WhatsApp Community](https://chat.whatsapp.com/JN0wsCDfW0f3y2FPzU0qJh) • [Video Catalog](https://www.notion.so/CRC-Video-Series-cad46edf801d4ea2884619f258024994?pvs=21)
+### [YouTube](https://www.youtube.com/@ConsciousnessResearch) • [Video Catalog](../Videos.md)
 
 **Consciousness Research Centre** is a platform for research, learning and direct experience of the structure and qualities of consciousness. Our courses and materials are universal—free from religious, organizational and political bias, and open to everyone.
 
@@ -24,13 +24,13 @@
 
 Study of consciousness imparts timeless wisdom that can be applied in many areas of life, including leadership, decision-making and problem-solving. It can lead to a sense of personal fulfillment, purpose, compassion and a deeper, more intimate connection to one's life journey. Students of consciousness find enhanced self-awareness and spiritual growth enables them to contribute more positively to their families, communities and society. Consciousness study thus offers a holistic approach to personal and spiritual development, leading to a richer and more meaningful life for the individual and society.
 
-![svāmīijī @ tiruvannamalai.jpeg](Consciousness%20Research%20Centre%20983dc1bbf2f84d92b16c282ae1621cd8/svamiiji__tiruvannamalai.jpeg)
+[svāmīijī  tiruvannamalai.jpeg](../art/svamiiji__tiruvannamalai.jpeg)
 
 # Founder
 
 **Priyānanda Svāmī** is a senior researcher and practitioner of the consciousness teachings of the *Upaniṣads* and *Buddha-suttas*. Born in Florida, USA in 1947, he earned a degree in Composition from Montclair Conservatory. His first career was as a music composer and producer in New York. He retired from a 25-year business career as an independent operating system internals development technical documentation consultant in 2000. He has spent the majority of his adult life traveling, serving his *gurus* and studying in temples and monasteries in Bhārata and Sri Lanka.
 
-Priyānanda brings a lifetime of deep research and experience to the ‘hard question’ of consciousness. He accepted the *sannyāsa* order from Śrī Jñāṇaśakti Svāmī in Tiruvannamalai in 2018. From 2011–2023 he wrote and produced a [**YouTube channel**](https://www.youtube.com/channel/UCC-FfMy1QYBFlh-peycrrCA) with over 1600 instructional videos—more than 500 hours of intelligent explanation and commentary on a broad range of philosophical and spiritual topics, from Existentialism, *Purāṇas* and *Bhakti* to *Tantra, Advaita* and the *Upaniṣads*. 
+Priyānanda brings a lifetime of deep research and experience to the ‘hard question’ of consciousness. He accepted the *sannyāsa* order from Śrī Jñāṇaśakti Svāmī in Tiruvannamalai in 2018. From 2011–2023 he wrote and produced a [**YouTube channel**](https://www.youtube.com/@ConsciousnessResearch) with over 2000 instructional videos—more than 500 hours of intelligent explanation and commentary on a broad range of philosophical and spiritual topics, from Existentialism, *Purāṇas* and *Bhakti* to *Tantra, Advaita* and the *Upaniṣads*. 
 
 # More About CRC
 
@@ -46,4 +46,4 @@ Our **vision** is a world where every individual, guided by self-awareness and s
 
 **Consciousness Research Centre’s** unique technology and methods empower a global community free from violence, insanity, war, poverty, inequality and bigotry. We aspire to create a ripple effect through transformative consciousness education—creating and maturing a collective consciousness that transcends boundaries, nurtures compassion, and lays the foundation for a more enlightened and equitable world.
 
-[CRC Video Series](https://www.notion.so/CRC-Video-Series-cad46edf801d4ea2884619f258024994?pvs=21)
+[CRC Video Series](../Videos.md)
