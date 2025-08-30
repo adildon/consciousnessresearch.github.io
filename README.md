@@ -1,2 +1,10 @@
 # consciousnessresearch.github.io
-Consciousness Research Centre: a living archive of Vedic and Buddhist wisdom. Over 2,000 talks linking Upaniṣads, Buddha’s teachings, yoga, tantra, and astrology with the challenges of modern life. Rooted in practice, shared freely for seekers and researchers.
+**Consciousness Research Centre** — *A Living Archive of Vedic and Buddhist Wisdom*
+
+For over 13 years, Consciousness Research Centre has presented a postgraduate-level seminar on spiritual philosophy and practice — over 2,000 video talks exploring the Upaniṣads, the Buddha’s teachings, yoga, tantra, astrology, and lived experience of the Self.
+
+This archive is guided by a simple vow: nothing is taught here that has not been personally practiced or realized. Each talk is both commentary and testimony, linking original sources of Vedic and Buddhist traditions with the challenges of contemporary life.
+
+The project continues to grow as a freely available library of wisdom — a path for seekers, students, and researchers who wish to discover not only what the scriptures say, but how their truths can be lived today.
+
+Visit the YouTube Channel → https://youtube.com/@ConsciousnessResearch
