@@ -9,7 +9,7 @@ title: Consciousness Research Centre
 
 A living archive of Vedic philosophy, spiritual practice, and reflections on the Self.
 
-For over thirteen years, Consciousness Research Centre has provided postgraduate-level seminars exploring the Upaniṣads, the Buddha’s teachings, yoga, tantra, astrology, and lived experience of the nondual Self. This is not mere scholarship: everything taught here has been personally studied, practiced and realized.
+**Consciousness Research Centre** provides postgraduate-level online and IRL seminars exploring the Upaniṣads, the Buddha’s teachings, yoga, tantra, Vedic astrology, and the lived experience of the nondual Self—a lifetime of spiritual experience and wisdom. This is not mere scholarship: everything taught here has been personally studied, practiced and realized.
 
 ---
 
