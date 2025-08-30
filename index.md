@@ -15,11 +15,10 @@ For over thirteen years, this project has provided postgraduate-level seminars e
 
 ## Explore the Content
 
-- **YouTube playlists:** [direct links](Videos.md) to video lectures
+- **About CRC** — [practical tools](About.md) for consciousness research
+- - **YouTube playlists:** [direct links](Videos.md) to video lectures
 - **Transcripts of video talks** — organized by [series](Videos.md) and [topic](Videos.md)  
 - **Essays and reflections** — commentary on Upaniṣadic and Buddhist philosophy  
-- **Charts and reference materials** — practical tools for study  
-
 
 [Visit the YouTube Channel →](https://www.youtube.com/@ConsciousnessResearch)
 
