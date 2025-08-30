@@ -13,7 +13,7 @@ For over thirteen years, this project has provided postgraduate-level seminars e
 
 ## Explore the Content
 
-![YouTube playlists](videos.md) — direct links to video lectures
+![YouTube playlists](https://consciousnessresearch.github.io/Videos.md) — direct links to video lectures
 - **Transcripts of video talks** — organized by series and topic  
 - **Essays and reflections** — commentary on Upaniṣadic and Buddhist philosophy  
 - **Charts and reference materials** — practical tools for study  
