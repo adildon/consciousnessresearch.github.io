@@ -31,7 +31,7 @@ This archive aims to remain **durable, open, and searchable**, so seekers can di
 ## Credits
 
 - Primary author: **Dev Bhagavān (Ādyaśakti Svāmī)**  
-- Repository management: [Friend’s Name or GitHub handle]  
+- Repository management: **Dinindu Wijenayake**  
 - Content shared freely in the spirit of **dharma**
 
 ---
