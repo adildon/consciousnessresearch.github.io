@@ -61,6 +61,7 @@ This site uses **GitHub Pages** for hosting.
 ## License
 
 Content © Dev Bhagavān (Ādyaśakti Svāmī) 2012-2025.  
+Licensed under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 Intended for open spiritual study and inspiration.  
 Please cite source when sharing.
 
