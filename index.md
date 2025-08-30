@@ -41,3 +41,9 @@ This archive aims to remain **durable, open, and searchable**, so seekers can di
 
 All content is under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
 Free to share and adapt for non-commercial purposes with proper attribution.
+
+---
+
+## Inquiries
+
+Email DevBhagavan@icloud.com or ConsciousnessRC@icloud.com
