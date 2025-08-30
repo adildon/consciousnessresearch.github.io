@@ -5,7 +5,7 @@ title: Consciousness Research Centre
 
 # Welcome to Consciousness Research Centre (CRC)
 
-![CRC Logo](art/CRCLogo.jpg)
+<img src="art/CRCLogo.jpg" alt="CRC Logo" width="200 height="200>
 
 A living archive of Vedic philosophy, spiritual practice, and reflections on the Self.
 
