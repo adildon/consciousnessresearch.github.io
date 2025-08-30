@@ -1,6 +1,6 @@
 # Consciousness Research Centre
 
-### [YouTube](https://www.youtube.com/@ConsciousnessResearch) • [Video Catalog](../Videos.md)
+### [YouTube](https://www.youtube.com/@ConsciousnessResearch) • [Video Catalog](Videos.md)
 
 **Consciousness Research Centre** is a platform for research, learning and direct experience of the structure and qualities of consciousness. Our courses and materials are universal—free from religious, organizational and political bias, and open to everyone.
 
