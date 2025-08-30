@@ -113,7 +113,7 @@ duties of *karma-yoga*, one gradually develops spontaneous attraction toward the
 
 In this section you will find courses based on ***vivartha-vāda**:* the view that duality is an illusion or appearance. The practice of deep meditation, *rāja-yoga*, is emptying the mind of all thoughts to perceive the essence: *nibbāna* (*nirvāṇa*), the transcendental Self or Brahman. The Buddha’s teaching, with its stress on meditation and emptiness, fits nicely into this category.
 
-****5. *Viśuddhi-cakra***
+### 5. *Viśuddhi-cakra*
 
 This section contains courses and videos about the throat *cakra*. Transcendental sound vibration —*mantras*, scriptural readings and recitations, prayer and spontaneous expressions of bliss and ecstasy—are important aspects of the spiritual Path. Here you find the powerful confidential *mantras* of the Śrī Vidyā that give deep emotional satisfaction, transcendental knowledge, bliss and Self-realization.
 
