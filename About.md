@@ -46,4 +46,4 @@ Our **vision** is a world where every individual, guided by self-awareness and s
 
 **Consciousness Research Centre’s** unique technology and methods empower a global community free from violence, insanity, war, poverty, inequality and bigotry. We aspire to create a ripple effect through transformative consciousness education—creating and maturing a collective consciousness that transcends boundaries, nurtures compassion, and lays the foundation for a more enlightened and equitable world.
 
-[CRC Video Series](../Videos.md)
+[Video Catalog](Videos.md)
