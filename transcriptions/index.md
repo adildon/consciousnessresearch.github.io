@@ -11,7 +11,7 @@ These, plus the **Introductory** and **Uncategorized** sections, make 6 categori
   [Foundation Series](foundation/index.md)
 
 
-## *Dvaita-vāda | *Karma-yoga* | *Jagrat* Consciousness
+## *Dvaita-vāda* | *Karma-yoga* | *Jagrat* Consciousness
 
 
 ## *Viśiṣṭādvaita-vāda* | *Bhakti-yoga* | *Svapna* Consciousness
