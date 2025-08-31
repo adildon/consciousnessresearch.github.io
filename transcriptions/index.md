@@ -29,8 +29,15 @@ Here is a tabular view:
 | Series | Description |
 | --- | --- |
 | [Foundation Series](foundation/index.md) | Necessary background knowledge |
-
-
+| [Becoming Genius]() | How to learn anything to a professional level of competence |
+| [Being in the World]() | The fundamental human existential problem | 
+| [Being Integrity]() | Attaining full human beingness through integrity |
+| [Call of the Friend]() | When the aspirant is ready, the teacher appears |
+| [Introduction to the Esoteric Teaching]() | The hidden knowledge behind all authentic religious and spiritual teachings and traditions |
+| [Consciousness]() | The nmost ancient theory of consciousness is still the best |
+| [Authentic Spiritual Life]() | Real spiritual experience arises spontaneously from within |
+| [The Big Picture]() | Beyond narrow-minded sectarian views to the universal |
+ 
 ## *Dvaita-vāda* | *Karma-yoga* | *Jagrat* Consciousness
 
 
