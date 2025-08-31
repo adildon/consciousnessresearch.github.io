@@ -17,7 +17,7 @@ A living archive of Vedic philosophy, spiritual practice, and reflections on the
 
 - **About CRC** — [practical tools](About.md) for consciousness research
 - **YouTube playlists:** [direct links](Videos.md) to video lectures
-- **Transcripts of video talks** — organized by [series](Videos.md) and [topic](Videos.md)  
+- **Transcripts of video talks** — organized by [consciousness](Videos.md) and [chakra](Videos.md)  
 - **Essays and reflections** — commentary on Upaniṣadic and Buddhist philosophy  
 
 [Visit the YouTube Channel →](https://www.youtube.com/@ConsciousnessResearch)
