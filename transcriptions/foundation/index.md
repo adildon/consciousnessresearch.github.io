@@ -19,3 +19,5 @@ It is based on the teaching of _catur-darśanam_, the Four Views explained by Ś
 Fittingly, the Foundation Series contains four videos—each one representing one of the four views of the _catur-darśanam._ Although the Foundation Series is intended for those new to Dharmasār, it spans the entire range of views, from lowest to highest, on the spiritual Path. Don’t be surprised, then, if you find much of this material difficult or inscrutable. We’re not deliberately trying to make it hard for you—but much of this material is likely beyond your experience.
 
 It’s not expected that you will realize everything just by hearing one time. In fact, the entire Path is often a journey of many lifetimes. The point of this is to expose you to the higher range of views, just so that you know they exist and are attainable by an intelligent and well-motivated human being.
+
+[Episode 1—Skillful Living](foundation_1.md)
