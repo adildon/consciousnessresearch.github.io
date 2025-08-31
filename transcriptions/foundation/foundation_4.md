@@ -14,6 +14,8 @@
 
 _Namaste_ 🙏 Before we leave this subject of the four classifications, the four levels or stages of there Vedic Path, I have to revisit it one more time. Because I’m still getting the feedback that you don’t get it. We have to be able to think with this chart—what does it mean?
 
+![4x4 Consciousness Matrix](/art/4x4matrix,jpg)
+
 There are four levels. The person on the first level can maybe see a little bit of the second level, but they can’t really understand it. The person on the second level can understand the first level just fine, because they’ve been there. And they’re learning the second level, and they’re maybe just barely able to understand the third level. The people on the third level understand the first two levels, but they can’t really understand the fourth level because it’s beyond their experience. And of course, the people on the fourth level understand everything. But Rāmana Mahārṣi and people like that are so rare. There are only a tiny, tiny handful on earth at any particular time.
 
 What does that mean in practice? If you have some friends who are sectarian religionists—Christian, Muslim, born-again Baptists or Jews or whatever, people who are committed to their religious faith—they’re solid _dvaita-vādīs_. They’re into duality all the way. They have an ‘eternal soul’, and they’re going to go be with God forever and ever, Amen.
