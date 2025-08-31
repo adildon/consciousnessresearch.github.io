@@ -27,6 +27,7 @@ Here is a tabular view:
 ## Introductory
 
 | Series | Description |
+| --- | --- |
 | [Foundation Series](foundation/index.md) | Necessary background knowledge |
 
 
