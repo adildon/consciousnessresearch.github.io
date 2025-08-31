@@ -34,22 +34,34 @@ Here is a tabular view:
 | [Being Integrity]() | Attaining full human beingness through integrity |
 | [Call of the Friend]() | When the aspirant is ready, the teacher appears |
 | [Introduction to the Esoteric Teaching]() | The hidden knowledge behind all authentic religious and spiritual teachings and traditions |
-| [Consciousness]() | The nmost ancient theory of consciousness is still the best |
+| [Consciousness]() | The most ancient theory of consciousness is still the best |
 | [Authentic Spiritual Life]() | Real spiritual experience arises spontaneously from within |
 | [The Big Picture]() | Beyond narrow-minded sectarian views to the universal |
  
 ## *Dvaita-vāda* | *Karma-yoga* | *Jagrat* Consciousness
 
+| Series | Description |
+| --- | --- |
 
 ## *Viśiṣṭādvaita-vāda* | *Bhakti-yoga* | *Svapna* Consciousness
 
+| Series | Description |
+| --- | --- |
 
 ## *Vivartha-vāda* | *Rāja-yoga* | *Suşupti* Consciousness
 
+| Series | Description |
+| --- | --- |
 
 ## *Ajata-vāda* | *Jñāna-yoga* | *Turīya* Consciousness
 
+| Series | Description |
+| --- | --- |
 
 ## Uncategorized
+
+| Series | Description |
+| --- | --- |
+
 
 
