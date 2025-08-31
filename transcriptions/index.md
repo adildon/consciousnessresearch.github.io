@@ -4,7 +4,7 @@ The **CRC Video Series** are organized into 4 main categories and 7 subcategorie
 
 ![4x4 Consciousness Matrix](art/4x4matrix.JPG)
 
-These, plus the **Introductory** and **Uncategorized** sections, make 6 categories in all:
+These, plus the **Introductory** and **Uncategorized** sections, make 6 categories and 7 subcategories in all:
 
 ![CRC Root Ontology](art/ontology.png)
 
@@ -29,7 +29,7 @@ Here is a tabular view:
 | Series | Description |
 | --- | --- |
 | [Foundation Series](foundation/index.md) | Necessary background knowledge |
-| [Becoming Genius]() | How to learn anything to a professional level of competence |
+| [Becoming Genius]() | How to master any subject or skill |
 | [Being in the World]() | The fundamental human existential problem | 
 | [Being Integrity]() | Attaining full human beingness through integrity |
 | [Call of the Friend]() | When the aspirant is ready, the teacher appears |
