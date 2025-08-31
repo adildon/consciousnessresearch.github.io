@@ -8,9 +8,26 @@ These, plus the **Introductory** and **Uncategorized** sections, make 6 categori
 
 ![CRC Root Ontology](art/ontology.png)
 
+Here is a tabular view:
+
+| Categories | Subcategories | Description |
+| --- | --- | --- |
+| Introductory | | Necessary background knowledge |
+| *Dvaita-vāda* | | Duality-view & associated consciousness |
+| | *Mūlādhāra-cakra* | Issues concerning the Sex *cakra* |
+| | *Svādhiṣṭāna-cakra* | Issues concerning the Energy *cakra* |
+| *Viśiṣṭādvaita-vāda* | | Qualified nonduality-view & associated consciousness |
+| | *Anahata-cakra* | Issues concerning the Emotion *cakra* |
+| | *Viśuddha-cakra* | Issues concerning the Speech *cakra* |
+| *Vivartha-vāda* | | Illusion-view & associated consciousness |
+| | *Ajña-cakra* | Issues concerning the Intellect *cakra* |
+| *Ajata-vāda* | | Unborn-view & associated consciousness |
+| | *Sahasrāra-cakra* | Issues concerning the Consciousness *cakra* |
+
 ## Introductory
 
-  [Foundation Series](foundation/index.md)
+| Series | Description |
+| [Foundation Series](foundation/index.md) | Necessary background knowledge |
 
 
 ## *Dvaita-vāda* | *Karma-yoga* | *Jagrat* Consciousness
