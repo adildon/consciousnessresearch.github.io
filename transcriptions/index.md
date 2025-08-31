@@ -6,6 +6,8 @@ The **CRC Video Series** are organized into 4 main categories and 7 subcategorie
 
 These, plus the **Introductory** and **Uncategorized** sections, make 6 categories in all:
 
+![CRC Root Ontology](art/ontology.png)
+
 ## Introductory
 
   [Foundation Series](foundation/index.md)
