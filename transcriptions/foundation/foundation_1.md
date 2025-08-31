@@ -1,3 +1,5 @@
+![CRC Logo](/art/CRCLogoSmall.png)
+
 # Foundation Series
 
 ## The Foundations of Authentic Spiritual Life
