@@ -1,6 +1,6 @@
 # Transcripts
 
-![4x4 Consciousness Matrix.jpg](art/4x4matrix.jpg)
+![4x4 Consciousness Matrix](art/4x4matrix.JPG)
 
 ## Introductory
 
