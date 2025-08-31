@@ -1,4 +1,4 @@
-![]CRC Logo](art/CRCLogoSmall.png)
+![CRC Logo](art/CRCLogoSmall.png)
 
 # Foundation Series
 
