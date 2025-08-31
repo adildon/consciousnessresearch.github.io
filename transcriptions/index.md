@@ -29,7 +29,7 @@ Here is a tabular view:
 | Series | Description |
 | --- | --- |
 | [Foundation Series](introductory/foundation/index.md) | Necessary background knowledge |
-| [Becoming Genius]() | How to master any subject or skill |
+| [Becoming Genius](introductory/BecomingGenius/index.md) | How to master any subject or skill |
 | [Being in the World]() | The fundamental human existential problem | 
 | [Being Integrity]() | Attaining full human beingness through integrity |
 | [Call of the Friend]() | When the aspirant is ready, the teacher appears |
