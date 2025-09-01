@@ -40,20 +40,43 @@ Here is a tabular view:
  
 ## *Dvaita-vāda* | *Karma-yoga* | *Jagrat* Consciousness
 
+### *Mūlādhāra-cakra* 
+
+| Series | Description |
+| --- | --- |
+
+### *Svādhiṣṭhāna-cakra* 
+
 | Series | Description |
 | --- | --- |
 
 ## *Viśiṣṭādvaita-vāda* | *Bhakti-yoga* | *Svapna* Consciousness
+
+### *Maṇipūraka-cakra*
+
+| Series | Description |
+| --- | --- |
+
+### *Anāhata-cakra*
 
 | Series | Description |
 | --- | --- |
 
 ## *Vivartha-vāda* | *Rāja-yoga* | *Suşupti* Consciousness
 
+### *Viśuddhi-cakra*
+
+| Series | Description |
+| --- | --- |
+
+### *Ājñā-cakra*
+
 | Series | Description |
 | --- | --- |
 
 ## *Ajata-vāda* | *Jñāna-yoga* | *Turīya* Consciousness
+
+### *Sahasrāra-cakra*
 
 | Series | Description |
 | --- | --- |
