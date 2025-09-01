@@ -32,8 +32,9 @@ The videos in the **Introductory** section are preliminary materials, required p
 
 ## Introductory Video Series:
 
-| **Course Site** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJhRhiu1FKRRgIkE16Yr5Ww) | [Archive](https://archive.org/details/dharmasar-course-site-introductory-dharmasar) |
+|     |     |     |
 | --- | --- | --- |
+| **Course Site** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJhRhiu1FKRRgIkE16Yr5Ww) | [Archive](https://archive.org/details/dharmasar-course-site-introductory-dharmasar) |
 | **Foundation Series** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKmgES4E6Lnrqu9Sdt4_786) | [Archive](https://archive.org/details/foundation-series-dharmasar) |
 | **Becoming Genius** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKSDrnl37T9M163BHPUSOr5) | [Archive](https://archive.org/details/becoming-genius-dharmasar) |
 | **Being in the World** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZLwgdu_TnjAed9m_9OoVYuM) | [Archive](https://archive.org/details/being-in-the-world-series-introductory-dharmasar) |
