@@ -134,7 +134,7 @@ That means we have to **qualify** everything; we have to be very careful about t
 
 Now let’s talk a little more about **becoming**. Becoming is actually the subject of the First and Second Noble Truths of the Buddha. There is **suffering**, and there is an **origin** of suffering. And here is the origin of suffering in a diagram of Dependent Origination.  
 
-**art 1st and second Noble Truths**
+[1st and 2nd Noble Truths](art/NobleTruths1-2.png)
 
 It begins with **ignorance**, and then it goes through all these other stages until it finally reaches suffering. So this is how suffering comes to be.
 
