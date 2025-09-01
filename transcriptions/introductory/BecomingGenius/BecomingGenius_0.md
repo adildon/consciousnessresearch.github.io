@@ -134,11 +134,11 @@ That means we have to **qualify** everything; we have to be very careful about t
 
 Now let’s talk a little more about **becoming**. Becoming is actually the subject of the First and Second Noble Truths of the Buddha. There is **suffering**, and there is an **origin** of suffering. And here is the origin of suffering in a diagram of Dependent Origination.  
 
-[1st and 2nd Noble Truths](art/NobleTruths1-2.png)
+![1st and 2nd Noble Truths](art/NobleTruths1-2.png)
 
 It begins with **ignorance**, and then it goes through all these other stages until it finally reaches suffering. So this is how suffering comes to be.
 
-**art 1st and second Noble Truths 3rd&4th**
+![3rd and 4th Noble Truths](art/NobleTruths3-4.png)
 
 
 But there’s also the Third and Fourth Noble Truths of the **cessation of suffering**, and the **Noble Eightfold Path**, which is the **method** or the **way** to the cessation of suffering.
@@ -159,7 +159,8 @@ That's why, in our process of Skillful Living, we make frequent references to th
 
 ## The Process of Becoming
 
-**art process of becoming**
+![ProcessOfBecoming](art/ProcessOfBecoming.png)
+
 
 So for our purposes, for applications like learning and leadership, we’re especially interested in this part of Dependent Origination, which we can call the **Process of Becoming**.
 
