@@ -16,6 +16,7 @@ All perception is based on consciousness. There are four states of consciousness
 
 The **root ontology** of **Consciousness Research Centre** is shown here:
 
+![Ontology](art/ontology.png)
 
 The classification of the videos series is based on the level of **development of consciousness** through the *yoga* system, and the *cakras* that represent the center of awareness and support for that consciousness:
 
