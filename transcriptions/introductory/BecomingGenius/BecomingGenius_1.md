@@ -42,7 +42,7 @@ Moreover, because you will also be reading the words to yourself as they are bei
 
 We also intentionally employ a certain amount of **repetition**. We do this because as the course proceeds, and you master later material, reviewing what we covered earlier **deepens** the **meaning** and **impact** of that earlier material.
 
-![efficiency comparison listening vs reading while using Voice Reader](art/EfficiencyComparison.png)
+**art efficiency comparison listening vs reading while using Voice Reader**
 
 When listening to text being read out loud while simultaneously reading it to yourself, there is a **44% increase** in comprehension efficiency over reading to yourself only. And in this study, this increase was produced by a **computer-generated** voice, that speaks with no **understanding** of what is being read, as contrasted with the way it will be read to you in **this** course.
 
@@ -86,9 +86,9 @@ Of course, we would suggest that you use the science of study method to understa
 
 The science of study self-learning method has three main parts:
 
-- Putting things in context
-- Clearing misunderstood terms
-- Modeling relationships and functions
+- Putting things in context.
+- Clearing misunderstood terms.
+- Modeling relationships and functions.
 
 Now we will discuss each of these parts, beginning with putting things in context.
 
@@ -110,7 +110,7 @@ Finding the right context is both a **science** and an **art**. The subject of *
 
 So, here is the first principle of the Science of Learning:
 
-![if you feel confused](art/confused.png)
+**art if you feel confused**
 
 The rest of this video gives some practical tips on how to resolve contextual problems while studying. Knowledge of Skillful Living is very scientific and precise. To transfer this knowledge to **you**, we must find a way to define and communicate **precise concepts**. So the first area of content and context is in the **definitions of terms**.
 
