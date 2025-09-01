@@ -196,6 +196,7 @@ This section contains courses and videos about the ***sahasrāra*** (crown) ***
 
 |     |     |     |
 | --- | --- | --- |
+| **Insights** | [YouTube](https://www.youtube.com/watch?v=tggc7tNhPd4&list=PL8s1kPtHmCZLQ1Xh8ELFfor2Kub0dO3tH) | --- |
 | **Autobiography** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKAGWd1oicoj0FIDgXZp99-) | [Archive](https://archive.org/details/autobiography-uncategorized-dharmasar) |
 | **Bulletins** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZK2gTQZl65en8wEllMZEUJp) | [Archive](https://archive.org/details/bulletins-uncategorized-dharmasar) |
 | **Defending the Sacred Tradition** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZI_LcwDjLtw3TAD5a-guIYQ) | [Archive](https://archive.org/details/defending-sacred-tradition-uncategorized-dharmasar) |
