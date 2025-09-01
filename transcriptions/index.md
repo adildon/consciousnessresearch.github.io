@@ -44,11 +44,13 @@ Here is a tabular view:
 
 | Series | Description |
 | --- | --- |
+| TBD | TBD |
 
 ### *Svādhiṣṭhāna-cakra* 
 
 | Series | Description |
 | --- | --- |
+| TBD | TBD |
 
 ## *Viśiṣṭādvaita-vāda* | *Bhakti-yoga* | *Svapna* Consciousness
 
@@ -56,11 +58,13 @@ Here is a tabular view:
 
 | Series | Description |
 | --- | --- |
+| TBD | TBD |
 
 ### *Anāhata-cakra*
 
 | Series | Description |
 | --- | --- |
+| TBD | TBD |
 
 ## *Vivartha-vāda* | *Rāja-yoga* | *Suşupti* Consciousness
 
@@ -68,11 +72,13 @@ Here is a tabular view:
 
 | Series | Description |
 | --- | --- |
+| TBD | TBD |
 
 ### *Ājñā-cakra*
 
 | Series | Description |
 | --- | --- |
+| TBD | TBD |
 
 ## *Ajata-vāda* | *Jñāna-yoga* | *Turīya* Consciousness
 
@@ -80,11 +86,11 @@ Here is a tabular view:
 
 | Series | Description |
 | --- | --- |
+| TBD | TBD |
 
 ## Uncategorized
 
 | Series | Description |
 | --- | --- |
-
-
+| TBD | TBD |
 
