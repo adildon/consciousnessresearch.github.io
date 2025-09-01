@@ -16,8 +16,9 @@ Here is a tabular view:
 | *Dvaita-vāda* | | Duality-view & associated consciousness |
 | | *Mūlādhāra-cakra* | Issues concerning the Sex *cakra* |
 | | *Svādhiṣṭāna-cakra* | Issues concerning the Energy *cakra* |
+| | *Maṇipura-cakra* | Issues concerning the Moving *cakra* |
 | *Viśiṣṭādvaita-vāda* | | Qualified nonduality-view & associated consciousness |
-| | *Anahata-cakra* | Issues concerning the Emotion *cakra* |
+| | *Anāhata-cakra* | Issues concerning the Emotion *cakra* |
 | | *Viśuddha-cakra* | Issues concerning the Speech *cakra* |
 | *Vivartha-vāda* | | Illusion-view & associated consciousness |
 | | *Ajña-cakra* | Issues concerning the Intellect *cakra* |
