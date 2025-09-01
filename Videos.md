@@ -59,6 +59,7 @@ The courses in this section are about the **root or sex cakra**. Sex energy supp
 | **Cultivating Sexual Energy** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJXvbSejOz5IJ60LrkMd-2C) | [Archive](https://archive.org/details/cultivating-sexual-energy-dvaita-muladhara-dharmasara) |
 | --- | --- | --- |
 | **Secret Heaven** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKC7Xl4NKLUhntGVRrJG7vm) | [Archive](https://archive.org/details/dvaita-muladhara-karma-secret-heaven) |
+| **Third-Sex Tantra** | [YouTube](https://www.youtube.com/watch?v=IlYLRIFXcIw&list=PL8s1kPtHmCZJVsBlEug6or62xXc3yg2rv) | --- |
 
 ### 2. *Svādhiṣṭhāna-cakra*
 
