@@ -42,7 +42,7 @@ Moreover, because you will also be reading the words to yourself as they are bei
 
 We also intentionally employ a certain amount of **repetition**. We do this because as the course proceeds, and you master later material, reviewing what we covered earlier **deepens** the **meaning** and **impact** of that earlier material.
 
-![efficiency comparison listening vs reading while using Voice Reader](EfficiencyComparison.png)
+![efficiency comparison listening vs reading while using Voice Reader](art/EfficiencyComparison.png)
 
 When listening to text being read out loud while simultaneously reading it to yourself, there is a **44% increase** in comprehension efficiency over reading to yourself only. And in this study, this increase was produced by a **computer-generated** voice, that speaks with no **understanding** of what is being read, as contrasted with the way it will be read to you in **this** course.
 
@@ -110,7 +110,7 @@ Finding the right context is both a **science** and an **art**. The subject of *
 
 So, here is the first principle of the Science of Learning:
 
-![if you feel confused](confused.png)
+![if you feel confused](art/confused.png)
 
 The rest of this video gives some practical tips on how to resolve contextual problems while studying. Knowledge of Skillful Living is very scientific and precise. To transfer this knowledge to **you**, we must find a way to define and communicate **precise concepts**. So the first area of content and context is in the **definitions of terms**.
 
