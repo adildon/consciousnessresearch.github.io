@@ -32,7 +32,7 @@ This archive aims to remain **durable, open,** and **searchable**, so seekers ca
 
 ## Credits
 
-- Primary author: **Dev Bhagavān (Priyānanda Svāmī)**  
+- Primary author: **Dev Priyānanda Svāmī Bhagavān**  
 - Repository management: **Dinindu Wiejenayake**  
 - Content shared freely in the spirit of **dharma**
 
