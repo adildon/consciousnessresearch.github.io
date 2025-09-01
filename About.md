@@ -32,7 +32,7 @@ Study of consciousness imparts timeless wisdom that can be applied in many areas
 
 **Dev Priyānanda Svāmī Bhagavān** is a senior researcher and practitioner of the consciousness teachings of the *Upaniṣads* and *Buddha-suttas*. Born in Florida, USA in 1947, he earned a degree in Composition from Montclair Conservatory. His first career was as a music composer and producer in New York. He retired from a 25-year business career as an independent operating system internals development technical documentation consultant in 2000. He has spent the majority of his adult life traveling, serving his *gurus* and studying in temples and monasteries in Bhārata and Sri Lanka.
 
-Priyānanda brings a lifetime of deep research and experience to the ‘hard question’ of consciousness. He accepted the *sannyāsa* order from Śrī Jñāṇaśakti Svāmī in Tiruvannamalai in 2018. From 2011–2023 he wrote and produced a [**YouTube channel**](https://www.youtube.com/@ConsciousnessResearch) with over 2000 instructional videos—more than 500 hours of intelligent explanation and commentary on a broad range of philosophical and spiritual topics, from Existentialism, *Purāṇas* and *Bhakti* to *Tantra, Advaita* and the *Upaniṣads*. 
+Priyānanda brings a lifetime of deep research and experience to the ‘hard question’ of consciousness. He accepted the *sannyāsa* order from Śrī Jñāṇaśakti Svāmī in Tiruvannamalai in 2018. From 2011–2025 he wrote and produced a [**YouTube channel**](https://www.youtube.com/@ConsciousnessResearch) with over 2000 instructional videos—more than 500 hours of intelligent explanation and commentary on a broad range of philosophical and spiritual topics, from Existentialism, *Purāṇas* and *Bhakti* to *Tantra, Advaita* and the *Upaniṣads*. 
 
 # More About CRC
 
