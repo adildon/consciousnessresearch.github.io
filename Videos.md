@@ -82,8 +82,9 @@ This section contains courses and videos about the **movement or solar plexus ca
 
 **Video Series about the *Maṇipūraka-cakra:***
 
-| **Approaching *Guru*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKSCgVrp1QHSw-r3YGPYDKh) | [Archive](https://archive.org/details/approaching-guru-series-visistadvaita-manipuraka-dharmasar) |
+|     |     |     |
 | --- | --- | --- |
+| **Approaching *Guru*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKSCgVrp1QHSw-r3YGPYDKh) | [Archive](https://archive.org/details/approaching-guru-series-visistadvaita-manipuraka-dharmasar) |
 | ***Guru*-Disciple Relationship** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZLSkT86q7ls0pzmX8gc6efj) | [Archive](https://archive.org/details/guru-disciple-relationship-visistadvaita-manipuraka-dharmasar) |
 | **Authentic *Karma-yoga*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKhWdN7WPPHP69YZLLuElcL) | [Archive](https://archive.org/details/authentic-karma-yoga-visistadvaita-manipuraka-dharmasar) |
 | ***Dīpam Havan Ceremony*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKhGmZRfE8SHQhq_ObjMEQR) | [Archive](https://archive.org/details/super-auspicious-tripurasundari-tantrik-agnihotra-dharmasar) |
@@ -99,8 +100,9 @@ duties of *karma-yoga*, one gradually develops spontaneous attraction toward the
 
 **Video Series about the *Anāhata-cakra:***
 
-| **A New Beginning** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKR_M1RyVbawSG5XJ7nFTqY) | [Archive](https://archive.org/details/a-new-beginning-visistadvaita-anahata-dharmasar) |
+|     |     |     |
 | --- | --- | --- |
+| **A New Beginning** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKR_M1RyVbawSG5XJ7nFTqY) | [Archive](https://archive.org/details/a-new-beginning-visistadvaita-anahata-dharmasar) |
 | ***Ananya-bhakti*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJnA8Rodv95xnqTQ6eiQbaO) | [Archive](https://archive.org/details/ananya-bhakti-visistadvaita-anahata-dharmasar) |
 | ***Bhakti-Bhāva*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZIifv9hBBuHRbquuY86dub9) | [Archive](https://archive.org/details/bhakti-bhava-visistadvaita-anahata-dharmasar) |
 | ***Mahānirvāṇa Tantra*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJT5BNsvajvLrOdFeAwqV_D) | [Archive](https://archive.org/details/mahanirvana-tantra-visistadvaita-anahata-dharmasar) |
@@ -123,8 +125,9 @@ This section contains courses and videos about the throat *cakra*. Transcendenta
 
 **Video Series about the *Viśuddhi-cakra:***
 
-| ***Vivartha-vāda*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJ3RC7pFhWstAWcRdVf832g) | [Archive](https://archive.org/details/vivartha-vada-raja-visuddhi-dharmasar) |
+|     |     |     |
 | --- | --- | --- |
+| ***Vivartha-vāda*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJ3RC7pFhWstAWcRdVf832g) | [Archive](https://archive.org/details/vivartha-vada-raja-visuddhi-dharmasar) |
 | ***Daśa-mahāvidyā*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZICtvyQLXjoH0MyCFa8a8dR) | [Archive](https://archive.org/details/dasa-mahavidya-raja-visuddhi-dharmasar) |
 | **Deep Meaning of *Gāyatrī*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJkvpNERdytCfvj5vqTPL_8) | [Archive](https://archive.org/details/deep-meaning-gayatri-raja-visuddhi-dharmasar_202104) |
 | ***Lakṣmī Tantra*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKVcO_-UqqAEsMjvqHR_I5X) | [Archive](https://archive.org/details/laksmi-tantra-raja-visuddhi-dharmasar) |
@@ -141,8 +144,9 @@ This section contains courses and videos about the ***ajña*** (forehead) **cakr
 
 **Video Series about the *Ājñā-cakra:***
 
-| **Apophatic Antifragility** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKR-HJbREpNa2MTgJoa1zcv) | [Archive](https://archive.org/details/apophatic-antifragility-raja-ajna-dharmasar) |
+|     |     |     |
 | --- | --- | --- |
+| **Apophatic Antifragility** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKR-HJbREpNa2MTgJoa1zcv) | [Archive](https://archive.org/details/apophatic-antifragility-raja-ajna-dharmasar) |
 | **Concept & Reality** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZLVzLjbI3CtWOc2i_JneTIj) | [Archive](https://archive.org/details/concept-reality-raja-ajna-dharmasar) |
 | **Cup of Tea** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKF70TBItSZS4auuEUCbaTo) | [Archive](https://archive.org/details/cup-of-tea-raja-ajna-dharmasar) |
 | **Dependent Arising** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZIaCCUD5hrY5xTF4oComWbB) | [Archive](https://archive.org/details/cup-of-tea-raja-ajna-dharmasar) |
@@ -171,8 +175,9 @@ This section contains courses and videos about the ***sahasrāra*** (crown) ***
 
 **Video Series about the *Sahasrāra-cakra:***
 
-| **After Enlightenment** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJreXk9zrPXFTAULRQ76c1t) | [Archive](https://archive.org/details/after-enlightenment-jnana-sahasrara-dharmasar) |
+|     |     |     |
 | --- | --- | --- |
+| **After Enlightenment** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJreXk9zrPXFTAULRQ76c1t) | [Archive](https://archive.org/details/after-enlightenment-jnana-sahasrara-dharmasar) |
 | ***Guru-vachaka-kovai*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZImTLjNOmQCrE4w1uKVMpiy) | [Archive](https://archive.org/details/guru-vachaka-kovai-jnana-sahasrara-dharmasar) |
 | ***Kaivalya-Navanītam*** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZIAYTiL0Tm5g8cOP8kT4Eax) | [Archive](https://archive.org/details/kaivalya-navanitam-jnana-sahasrara-dharmasar) |
 | **Post-Enlightenment** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZIPUgVL_qZd4FqKuqnfO9xY) | [Archive](https://archive.org/details/post-enlightenment-jnana-sahasrara-dharmasar) |
@@ -189,8 +194,9 @@ This section contains courses and videos about the ***sahasrāra*** (crown) ***
 
 **Video series that overlap more than one category or don’t fit in any category:**
 
-| **Autobiography** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKAGWd1oicoj0FIDgXZp99-) | [Archive](https://archive.org/details/autobiography-uncategorized-dharmasar) |
+|     |     |     |
 | --- | --- | --- |
+| **Autobiography** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZKAGWd1oicoj0FIDgXZp99-) | [Archive](https://archive.org/details/autobiography-uncategorized-dharmasar) |
 | **Bulletins** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZK2gTQZl65en8wEllMZEUJp) | [Archive](https://archive.org/details/bulletins-uncategorized-dharmasar) |
 | **Defending the Sacred Tradition** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZI_LcwDjLtw3TAD5a-guIYQ) | [Archive](https://archive.org/details/defending-sacred-tradition-uncategorized-dharmasar) |
 | **Freestyle Talks** | [YouTube](https://www.youtube.com/playlist?list=PL8s1kPtHmCZJ69Cvliz9u0LZl54SouHMe) | [Archive](https://archive.org/details/freestyle-talks-uncategorized-dharmasar) |
