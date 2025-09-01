@@ -10,7 +10,7 @@ The **Consciousness Research Centre** theory of consciousness—known as Dharmas
 
 **The CRC Video Series** is a [YouTube Channel](https://youtube.com/@ConsciousnessResearch) and [online archive](https://archive.org/details/dharmasar-essence-of-dharma?tab=collection) with over 2,000 videos analyzing a broad range of spiritual traditions in the light of the Esoteric Teaching of **Dharmasār**—the Essence of Dharma. It is structured according to the types, states and stages of development of consciousness. This document describes and explains the inner organization and structure of the Teaching according to the seven *cakras* and four states of consciousness.
 
-***Root Ontology***
+## Root Ontology
 
 All perception is based on consciousness. There are four states of consciousness: waking, dreaming, deep sleep and the fourth, *turīya* also called God, Brahman, Nirvāṇa, Self-realization, Enlightenment etc.
 
