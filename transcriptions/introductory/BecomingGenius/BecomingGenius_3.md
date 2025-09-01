@@ -28,7 +28,7 @@ So now let’s take a good look at the science of ontology, and then in the next
 
 First you need to know what ontology is, and how it fits into the big picture of our **Skillful Living Becoming Genius** program. So first of all, there are **four stages** of becoming genius.
 
-**art 4 stages of Becoming Genius**
+![4 stages of Becoming Genius](art/FourStages.png)
 
 For any subject, **duplication** is the first stage. That means making an exact copy of the source by looking up and being familiar with all the definitions of the important terms.
 
@@ -40,13 +40,13 @@ And finally we reach a stage called **metacognition**, where you **realize a new
 
 Now again I’m going to go over the **conventional conception** versus the **ontological/ontic conception**.
 
-**art conventional conception**
+![conventional conception](art/ConventionalConception.png)
 
 In the conventional conception, the most important thing is seen as **having**. You have to **have** something and then you can **do** something with it; by doing something then you get to **think** about the thing, and eventually you **know** it. Finally, maybe up somewhere far away is **being**; but we’re not really sure about that, because we don’t have an adequate terminology or instruction in being.
 
 Now this is called in Vedic and Sanskrit terminology _āroha pantha_, the path of ascension. Ascending knowledge means building like a pyramid, one level at a time, from what has gone on in the past. This is a very important definition. So by **having** that we can **do** something, then we can **think** about it, then maybe we can **know** something. And finally, maybe a long ways away, we can change our **being**. But this is very inefficient, time- and energy-consuming, **and** error-prone, because there’s no way to check back and see that the being that you are becoming is really what you want to be.
 
-**art Ontic/Ontological**
+![Ontic/Ontological Conception](art/OntologicalConception.png)
 
 Now let’s take a look at the ontic/ontological conception; and of course this is absolutely the reverse. We start from **being**. Once we determine the type of being that we want to have, then we can understand the **knowing** that we need, the **thinking** that we have to have, and the **doing** to manifest that state of being. And finally way down the road we come to the **havingness** of that being, automatically.
 
@@ -54,7 +54,7 @@ Now the advantage of this is that, once you start out from **being**, knowing, t
 
 So in eastern terminology this is called a _avāroha pantha_: the descending path, descending knowledge. And of course the advantage is we already know what being we’re trying to attain, so we have a way to check every subsequent stage to see if it’s in line with the being that we want, and correct it. The ontic and ontological conception is much more **efficient**. The descending path is actually much **easier** than the ascending path; the only thing that’s missing is **knowledge of being** so that we can put it to use. So let’s get some of that knowledge.
 
-**art Ontology Definition**
+![Ontology Definition](art/OntologyDefinition.png)
 
 Here’s the definition of ontology. Ontology is a noun from _onto-_, the root _onto-_ from the Greek _ών, ōn, ώντος, ōntos_, ’being’ or ’that which is’, and _\-λογία, -logia:_ science, study or theory. So ontology is the **theoretical philosophical study** of the nature of being, becoming, existence or reality, as well as the basic categories of being and their relations.
 
@@ -62,27 +62,27 @@ So in other words, your ontology is like **a map of what can be**. And you reall
 
 This is a very important point. If we are to **grow** our being, if we are to become **more** than we are right now, more than we **wound up being**, or just became more or less by accident—if we wish to **become** something with **intention**, we’re going to have to grow, we’re going to have to change our being, **expand our being**. That means we’re going to have to **expand our ontology**: expand our knowledge of possible states of being, and maybe also change our value system with respect to which one of them is most valuable.
 
-**art ontics**
+![ontics](art/ontics.png)
 
 Now let’s take a look at the definition of ontics. **Ontic** is an adjective, **ontics** is the related noun; again from the Greek _ών,_ the genitive case which is _ώντος,_ being: that which is. But in ontics we are concerned with whatever is **physical, real or factual existence** on any level. In other words, ontics pertains to what is actually present—**phenomena** as opposed to the nature or properties of that being, ontology. Ontology is more of an analytical science; ontics is an experiential science. And we are going to go into that distinction, into the distinction between ontology and ontics, very deeply in the rest of this video.
 
-**art about ontology**
+![about ontology](art/AboutOntology_1.png)
 
 Now let’s talk some more about ontology. Ontology in general is the **science of being**; but here we are concerned with the ontology of _human beings_ (the nature and function of beingness for human beings). Specifically we are concerned with **the ontology of genius** (the nature and function of _being_ for genius and the _actions_ of genius-level intelligence). **Who you are being when being a genius** shapes your perceptions, emotions, creative imagination, thinking, planning, and consequently your actions in the exercise of that genius.
 
 In other words it’s a top-down thing; it’s the **ontological view** of being. Whoever you are **being** is going to **shape** your thoughts, feelings, actions and so on. It’s going to influence your knowledge, because anything that comes up that’s outside your range of being, you won’t be able to recognize it. It could be there right in front of you; you won’t even see it.
 
-**art about ontology 2**
+![about ontology 2](art/AboutOntology_2.png)
 
 Ontology is one way of looking at human beingness. One can explore the nature and function of human beings from various perspectives: for example from psychology, anthropology, economics, neuroscience or ontology. **A psychological perspective** examines human nature from the perspective of mental functions; **an evolutionary perspective** examines human nature from the evolutionary drive for survival and sex; **a neuroscience perspective** examines human nature according to brain function, and **an ontological perspective** examines human nature in terms of being and becoming.
 
-**art about ontology 3**
+![about ontology 3](art/AboutOntology_3.png)
 
 So ontology is simply another perspective from which to examine human nature. While connected with and informed by the other perspectives, ontology specifically examines the **nature of being** and **experience** in the ontics part of ontology. When exploring the being of a genius from an ontological perspective we are concerned with the _ways of being_ that constitute being a genius and that result in the effective exercise of genius as your **natural self-expression**.
 
 In other words, it’s no good trying to **imitate** a genius. Like if we got all kinds of material about Einstein, and we studied everything about him—his lifestyle, his actions, what he did every day, how he tied his shoes or combed his hair—in other words he didn’t—maybe you would cultivate the wild Einstein hairdo and the tweed suits. Is that going to make you a genius? No, sorry, it’s going to make you an **imitation** genius, and everybody hates a poser. Everybody hates somebody who’s just faking it, a wannabe, trying to be something that he’s really not.
 
-**art about ontology 4**
+![about ontology 4](art/AboutOntology_4.png)
 
 So how do we **actually** become a genius? Let’s look into it some more. While the formal term for the study of being is **ontology**, the method of experiential self-inquiry into being and action for human beings is called **phenomenology**. The phenomenological approach contrasts with traditional theoretical analysis from an ’objective’ perspective—whatever that is. We use the phenomenological methodology to provide **actionable access** to what the ontological model reveals and opens up, as an **as-lived experience**.
 
@@ -92,13 +92,13 @@ Furthermore, **being a genius** and the **effective exercise of genius as your n
 
 Havingness is the lowest thing on the scale of being. So if we, say we take some idiot and we say, “Okay you are now the Professor Emeritus Chair of the Physics Department,” is he gonna be really a genius? No, it’s like dressing a dog up as a king. You can come and offer all the things that are offered to a king to this stupid dog, but as soon as you throw a bone, he’s going to jump down off the throne and go chase it. So you can’t take the dog out of the dog without changing his being. He has to become something **more** to be a real king. We have to become something **more** than what we already are to become a real genius, and there’s no way to imitate that.
 
-**art ontological education**
+[ontological education](art/OntologicalEducation_1.png)
 
 What’s needed is called **ontological education**, as opposed to epistemological education, which is just **knowing about** something. Epistemological mastery of a subject leaves you **knowing about** it; ontological mastery of a subject leaves you **being it**. Gaining experiential access to **being** a genius and the effective exercise of genius **as your natural self expression** also requires dealing with factors present in all human beings that **constrain our freedom** to be and do by constraining and shaping our perceptions, emotions, creative imagination, thinking and planning. When one is free from these _ontological constraints_—your way of being and acting results _naturally_ in your personal best in any situation. Our purpose in this series is to help you accomplish this for yourself.
 
 In other words the top-down approach. Just like the bottom-up approach is based on the past—what I did in the past becomes the foundation for the next thing, and then that becomes the foundation for something else, and further on up into the present, where we’re actually acting and doing and being whatever is the result of our previous activities—instead we’re going to adopt a **future-oriented** approach, the ontological approach: “This is what I want to **be** in the future, and now how do I make my knowledge, thinking, doing and having align with that, to really **become** that?” And the way you learn this is by **ontological education**. We’re going to be talking and doing quite a bit of this, so get used to the idea.
 
-**art ontological education 2**
+[ontological education 2](art/OntologicalEducation_2.png)
 
 The intention of this series is to leave you **being a genius and exercising genius effectively as your natural self-expression**. The experiential approach gives you the opportunity to experience the **being** and **action** of a genius. In other words, we want you to take everything you learn in this series and actually **put it to use**. There isn’t going to be a test. There’s no quiz, no salesman will call; we’re not looking for donations or membership. Maybe some good feedback, yeah but you’re not going to become a part of some organization or anything unless you want to.
 
@@ -112,13 +112,11 @@ Einstein came up with his theory of Relativity without ever setting foot in a ph
 
 You see how proactive this approach is? Not like you learn just to go to school to become a genius. That’s ridiculous! It’s like going to school to learn to think for yourself. You’ll never learn to think for yourself in school; they discourage it—actively—they’ll punish you for it. But if you go out on your own, in the middle of the woods, and then you start trying to learn how to think, then you can learn to think for yourself. This is one of those things that you can **only** learn by **doing** it. That’s the whole idea of this series.
 
-**art ontological education 3**
+[ontological education 3](art/OntologicalEducation_3.png)
 
 Therefore, this series is **not** designed to leave you merely **knowing about** genius and geniuses, and able to intelligently discuss the issues around them. Rather this series is designed to give you actual **access** to **being** a genius and **exercising** **your genius** **effectively** in your life _as your natural self-expression_.
 
 You can’t fake being a genius. You can’t just write down a bunch of equations and everybody’s gonna go, “Oooh wow, that’s great!” No, because why? There are people out there who actually **know** this stuff; there are people out there who are already **actually** geniuses, who are already **actually** enlightened, who are already **actually** expert in the field, and they’ll call you out.
-
-**art ontological education 3**
 
 **Learning by Being** means there’s **nothing to remember**; no rules, charts or references to look up; no set procedure or process to go through when an opportunity for genius arises. You simply **respond** immediately, intuitively, spontaneously and confidently to the challenges of learning with your entire energy and being.
 
@@ -128,7 +126,7 @@ What does it mean to be a genius? It means to **bring a new reality into manifes
 
 The point is, learn how to become a **real** genius—not a phony genius, not a guy who gets up there and just talks very loud about something he doesn’t really know anything about. Someone who may speak quietly, but with **real insight** and **reveal** something, open up something, give **access** to something that has never been available before—that’s what genius is. It’s making an **original contribution** to a field that enhances and enriches everyone connected with it. That’s why being a genius is the **most valuable thing** in life.
 
-**art ontological education 4**
+[ontological education 4](art/OntologicalEducation_4.png)
 
 Therefore you will not get to be an authentic genius and exercise your genius as your natural self expression by **going to school**. You need to **take** **apprenticeship** from someone who has mastered the personal qualities and skills required for being a genius and exercising genius as his natural self-expression.
 
