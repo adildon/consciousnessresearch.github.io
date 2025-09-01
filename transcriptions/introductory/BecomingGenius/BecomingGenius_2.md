@@ -149,11 +149,11 @@ Writing with your own hand is very powerful. It’s extremely potent, especially
 
 The first **workable method** for building understanding is **outlining**—making an ordered, prioritized list of points. The dictionary defines **outlining** as “**making a general description or plan giving the essential features of something but not the detail**.” Any word processing software can be used to generate an outline, but we suggest that you **write it by hand**. Handwriting engages additional senses (including the kinesthetic sense) in the process of understanding. It also helps you to identify points that need more work.
 
-![Catch-22 Outline art]()
+![Catch-22 Outline art](art/Catch22Outline.jpg)
 
 You were probably taught to outline in Harvard style, but it doesn’t have to be that way. Here’s an outline for the novel _Catch-22_ by Joseph Heller, and you see it’s in spreadsheet form. And this novel is densely plotted, complex, lots of characters, lots of actions. So he puts it in the form of a spreadsheet. You notice all the cells that are erased; it’s in pencil, and I recommend using pencil too.
 
-![Tropic of Capricorn Outline art]()
+![Tropic of Capricorn Outline art](art/TropicOfCapricorn.jpg)
 
 Speaking of creative outline formats, here’s Henry Miller’s manuscript plan for _Tropic of Capricorn._ As you can see, it doesn’t look anything like a traditional outline, and yours doesn’t have to either. You can put charts in there, you can put drawings—anything that makes sense to **you**, to make sense of the **subject** that you’re trying to wrap your mind around.
 
